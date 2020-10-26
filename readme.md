@@ -1,0 +1,1 @@
+# um slideshow estilo fadeIn/out baseado no do instagram
